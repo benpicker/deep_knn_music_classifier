@@ -14,6 +14,8 @@ Fully connected neural networks are termed "universal function approximators" be
 * Deep KNN with Keras: 73.5% accuracy 
 * Deep KNN in PyTorch: 73% accuracy 
 
+Metric used: (num correct) / (total number in test set)
+
 
 ### Files 
 
