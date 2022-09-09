@@ -1,5 +1,6 @@
 # Deep KNN Music Classifier 
 
+Video Explanation: https://youtu.be/pdJRBOulrHE
 
 ### Choices for implementing KNN 
 
